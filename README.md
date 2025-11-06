@@ -1,5 +1,8 @@
-# startrek_new
-Recreating the classic super star trek
+# space empires game
+Recreating the classic super star trek into a space empire building game
+
+
+## PHASE 1 LOGIC
 ```
 START GAME
     Initialize global constants:
