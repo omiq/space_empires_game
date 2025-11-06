@@ -1,4 +1,10 @@
-# Space Empires
+# Space Battles (Phase 1)
+
+<img width="601" height="371" alt="image" src="https://github.com/user-attachments/assets/a7ed4e4a-8b15-4d63-9b32-e0e874e55e50" />
+
+**Space Battles** is the classic Star Trek.bas brought into the 21st c
+
+# Space Empires (Phases 2 and 3)
 
 A modular, extensible **space trading and empire simulation** designed for single-player procedural play and later adaptation into a persistent multiplayer universe.
 
