@@ -217,6 +217,17 @@ class Game:
     # Commands -----------------------------------------------------------
 
     def navigate(self):
+        print("""
+
+ ENTER A NUMBER       4  3  2
+ BETWEEN 1 AND 9       . . .
+                        ...
+ DECIMALS MAY BE    5 ---*--- 1
+ USED (EG. 8.57)        ...
+                       . . .
+                      6  7  8
+
+        """)
         course = self._ask_float("Course (1-9)? ")
         if course is None:
             return
